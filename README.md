@@ -63,6 +63,7 @@ java FirstClass
 | Lebih Kecil Sama dengan | `<=`  | 
 
 #3 Operator Logika
+
 | Nama	 | Symbol  |
 |--|--|
 | Logika AND | &&  |
