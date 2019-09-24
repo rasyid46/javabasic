@@ -52,7 +52,8 @@ java FirstClass
 |**Increment** | ++  |
 
  #2  Operator Pembanding
-  | Nama	 | Symbol  |
+ 
+| Nama	 | Symbol  |
 |--|--|
 | Lebih Besar | >  |
 | Lebih Kecil | < |
