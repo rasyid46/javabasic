@@ -1,7 +1,8 @@
  #  Pull code
  
- git clone https://github.com/rasyid46/javabasic.git
- cd  javabasic
+  git clone https://github.com/rasyid46/javabasic.git
+  <br/>
+  cd  javabasic
  
  # javabasic
 
