@@ -105,3 +105,4 @@ while ( kondisi ) {
 }
 
 ```
+ **8 Array**
